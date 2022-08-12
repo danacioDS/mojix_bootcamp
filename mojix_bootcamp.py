@@ -3,7 +3,9 @@ import pandas as pd
 import sqlalchemy
 
 
-st.write("Hello Mojix BootCamp")
+st.write("HELLO MOJIX BOOTCAMP")
+
+st.write("Daniel Canedo")
 
 st.title('Fundamentals comparison')
 
