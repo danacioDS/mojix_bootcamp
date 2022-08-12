@@ -4,8 +4,9 @@ import sqlalchemy
 
 
 st.write("HELLO MOJIX BOOTCAMP")
+st.write("DASHBOARD FINANCIERO")
 
-st.write("Daniel Canedo")
+st.write("Por: Daniel Canedo")
 
 st.title('Fundamentals comparison')
 
